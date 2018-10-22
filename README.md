@@ -36,7 +36,7 @@ II. The Web We Need
       * Peak words; semantic density of the human cognitive field is at breakdown voltage
       * Four-dimensionality: Digital Humans are all ships of Theseus
       * Sensemaking is not optional (draft)
-    * Social Physics
+    * Social Physics  <<- This term and the social physics domain name is stolen by Sandy Pentland from a Woman named Mary Ruddy https://web.archive.org/web/20050223042303/http://www.socialphysics.org and her colleague Paul Trevithick https://web.archive.org/web/20050223042303/http://www.socialphysics.org It may not be a good term to use. 
         * Identity, Names, and the Social Field
         * Privacy and Trust
         * Self-hood and agency
